@@ -1,0 +1,8 @@
+from now on:
+
+Free installation on your server,
+free limited support  support in 6-48 hour, not guaranteed
+to install onto your server, please contact us !
+
+
+more info will be written later..
